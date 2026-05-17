@@ -1,9 +1,5 @@
 ## Task 1
-- An ELI5-style explanation of what it represents physically
-- Whether it's a single-level variable (e.g. surface temperature) or one associated with pressure levels (e.g. wind at different altitudes in the atmosphere)
-- Common abbreviation(s) for the variable
-
-The wind speed is how fast the wind is blowing (without the direction). In this project's case, we use the wind speed at 10 meters, which is a a single-level variable since it only measures at 10 meters. 
+The wind speed is how fast the wind is blowing (without the direction). In this project's case, we use the wind speed at 10 meters, which is a single-level variable that only measures at 10 meters. 
 
 Common abbreviations:
 - 10m wind speed, 10m_wind_speed
