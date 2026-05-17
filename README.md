@@ -1,4 +1,6 @@
-To view result, navigate to [wind_animation.gif](https://github.com/caasion/weatherloo-take-home/blob/main/wind_animation.gif).
+To view writeup, navigate to [WRITEUP.md](WRITEUP.md)
+
+To view result, navigate to [wind_animation.gif](wind_animation.gif).
 
 ## How to run
 Run the following commands in the terminal.
